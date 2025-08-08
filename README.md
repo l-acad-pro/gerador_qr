@@ -1,6 +1,8 @@
 # Gerador de QR Code
 
-Este projeto é um gerador de QR Code simples em Python usando a API do [goQR.me](https://goqr.me/api/).
+Este projeto é um gerador de QR Code simples com **interface gráfica** em Python usando a API do [goQR.me](https://goqr.me/api/).
+
+Foram usadas as seguintes bibliotecas: tkinter, requests, pillow e io
 
 ## Como usar
 
@@ -16,6 +18,11 @@ Este projeto é um gerador de QR Code simples em Python usando a API do [goQR.me
 - Python 3.8 ou maior
 - As bibliotecas listadas em `requirements.txt`
 
+
+## Funções do programa
+Caixa de texto para inserir o link. Se o link estiver na área de transferência, o programa identificará automaticamente no momento que o usuário clicar na caixa de texto.  
+Há um botão que gera o QR Code a partir do link na caixa de texto.  
+É possível clicar com o botão direito na imagem do QR Code gerada para salvá-la no dispositivo.
 ## Como instalar os requisitos
 
 Isso só vale se você for usar o script (gerador_qrcode.py)
