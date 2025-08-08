@@ -11,7 +11,7 @@ Foram usadas as seguintes bibliotecas: tkinter, requests, pillow e io
 
 ### Ou, opcionalmente
 
-1. Baixe a versão para **Windows** ou **Linux** em releases.
+1. Baixe a versão para **Windows** ou **Linux** em **Releases**.
 
 ## Requisitos
 
