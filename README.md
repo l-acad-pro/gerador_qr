@@ -1,6 +1,6 @@
 # Gerador de QR Code
 
-Este projeto é um gerador de QR Code simples em Python usando a API do [goQR.me] (https://goqr.me/api/).
+Este projeto é um gerador de QR Code simples em Python usando a API do [goQR.me](https://goqr.me/api/).
 
 ## Como usar
 
