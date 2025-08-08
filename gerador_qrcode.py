@@ -56,4 +56,4 @@ rotulo = ttk.Label(janela)
 rotulo.pack()
 rotulo.bind("<Button-3>", mostrar_menu)
 
-janela.mainloop()
+janela.mainloop() 
