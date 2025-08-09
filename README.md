@@ -29,11 +29,11 @@ Isso só vale se você for usar o script (gerador_qrcode.py)
 
 ### Windows
 
-#### Caso você tenha o pip no PATH
+#### Caso você tenha o pip na variável PATH
 
 `pip install -r requirements.txt`
 
-#### Caso você não tenha o pip no PATH
+#### Caso você não tenha o pip na variável PATH
 
 `python -m pip install -r requirements.txt`
 
